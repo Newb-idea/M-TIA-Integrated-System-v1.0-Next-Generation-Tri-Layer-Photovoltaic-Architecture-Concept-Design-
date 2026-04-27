@@ -1,0 +1,2 @@
+# Next-Generation-Tri-Layer-Photovoltaic-Architecture-Concept-Design-
+This system is a "Physical Layer OS (L1 OS)" that physically integrates three layers: optics, photoelectric conversion, and thermoelectric conversion. It inverts heat and electromagnetic noise, previously discarded as "liabilities," into "energy (assets)" via the third layer's "Electromagnetic Wave Absorbing Power Generation Material."
