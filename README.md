@@ -58,7 +58,7 @@ Parameter / 項目 Target Performance / 目標性能 Strategic Logic / 戦略的
 Total Energy Yield / 総合出力 1.5x vs Conventional Total Spectrum Harvesting (Visible + IR)
 Operational Lifespan / 耐用年数 30+ Years Thermal Degradation Suppression by Layer 3
 Tracking Mechanism / 追尾方式 Static (Passive) Lenticular Refractive Alignment
-IP Status / 知財状態 CC0 (Public Domain) Global Open-Source Collaboration
+IP Status / 知財状態 CC0 (Public Domain) Global Open-Source Collaboration papatoldme1000 [at] outlook.com
 
 
 4. Material Philosophy & Licensing / 素材哲学とライセンス
